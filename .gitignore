@@ -1,0 +1,6 @@
+*.exclude
+/.vs
+/bin
+/obj
+/Properties
+/AWSKeyUpdater.csproj.user
